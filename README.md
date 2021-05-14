@@ -1,2 +1,2 @@
 # Illustrations
-Explored making illustrations in Figma
+Check out the illustrations, 100% made in Figma.
